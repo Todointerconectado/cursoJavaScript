@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(-43deg, red 0%, green 46%, blue 100%);
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    margin: 300px auto 500px;
+    border-radius: 4px;
+    padding: 25px;
+    width: 500px;
+    height: 250px;
+    color: #4158D0;
+    background: rgb(243, 234, 234);
+    text-align: center;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    font-size: 5em;
+}
